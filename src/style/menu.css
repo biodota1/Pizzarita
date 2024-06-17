@@ -1,0 +1,70 @@
+/* BEST FOOD MENU */
+.menu-h1 {
+  font-family: "Just Another Hand";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 50px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #fd3307;
+}
+
+/* Our Best Foods Menus */
+
+.menu-h2 {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 77px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* Beef Burger */
+
+.menu-h3 {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 32px;
+  text-align: center;
+
+  color: #fd3307;
+}
+
+.menu-box {
+  height: 600px;
+  width: 600px;
+}
+.menu-items {
+  display: flex;
+  height: 140px;
+}
+
+/* Vegetables Burger */
+.menu-item-name {
+  font-family: "Jura";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 35px;
+
+  color: #000000;
+}
+
+/* $27.00 */
+.menu-item-price {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 38px;
+
+  color: #fd3307;
+}

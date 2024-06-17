@@ -1,0 +1,102 @@
+/* About Company */
+.about-h1 {
+  font-family: "Just Another Hand";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 65px;
+  /* identical to box height */
+
+  color: #fd3307;
+}
+
+/* Where Quality Food Meet Excellent Service */
+.about-h2 {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 90px;
+
+  color: #000000;
+}
+
+/* Our restaurant strives to become our customers favorite place to eat and drink. */
+
+.about-h3 {
+  font-family: "Anaheim";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 58px;
+
+  color: #000000;
+}
+
+.about-h4 {
+  font-family: "Anaheim";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* Fast Foods */
+
+.about-h4 {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 64px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* If you're out, and starving, and need a bite to eat, then you need fast food. */
+
+about.h5 {
+  font-family: "Anaheim";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* Jamesmyer Geonzon */
+
+.about-h6 {
+  font-family: "Aoboshi One";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 43px;
+
+  color: #000000;
+}
+
+.about-h7 {
+  font-family: "Anaheim";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 39px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.about-button {
+  font-family: "Aoboshi One";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 36px;
+
+  background: #f85050;
+}

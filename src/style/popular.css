@@ -1,0 +1,136 @@
+/* BEST FOOD MENU */
+.best-food {
+  font-family: "Just Another Hand";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 50px;
+  /* identical to box height */
+
+  color: #fd3307;
+}
+/* OUR POPULAR FOOD ITEMS */
+.our-food-items {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 77px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* Popular BOX/////////////// */
+
+.popular-box {
+  position: relative;
+  width: 350px;
+  height: 500px;
+  background: #fefaf1;
+}
+
+.popular-item-info {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.popular-item-menu {
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 10%;
+  top: 0;
+  height: 40%;
+  width: 100%;
+}
+
+.popular-item-trigger {
+  position: absolute;
+  z-index: 3;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background: #fd3307;
+}
+
+.popular-item-trigger:hover {
+  cursor: pointer;
+}
+
+.popular-item-rec-container {
+  position: absolute;
+  z-index: 2;
+  border-radius: 50px;
+  width: 150px;
+  height: 40px;
+  overflow: hidden;
+}
+
+.popular-item-rec {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 10px;
+  height: 40px;
+  width: 150px;
+  background: rgba(253, 52, 7, 0.542);
+  border-radius: 50px;
+  transition: width 1s ease-in-out;
+}
+
+.popular-item-rec:hover {
+  cursor: pointer;
+}
+
+.popular-item-rec:hover {
+  cursor: pointer;
+}
+
+.popular-item-text {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+  color: #000000;
+}
+
+/* Popular BOX/////////// */
+
+.popular-text-h1 {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 45px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* Japanese style cuisine pizza */
+.popular-text-h2 {
+  font-family: "Alef";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* $27.00 */
+.popular-text-h3 {
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  text-align: center;
+
+  color: #fd3307;
+}

@@ -1,0 +1,23 @@
+.fade-in {
+  opacity: 1;
+  transition: opacity 2s ease-in-out;
+}
+
+.fade-out {
+  opacity: 0;
+}
+
+.translate-in {
+  animation: bounceAnimation 1s;
+}
+
+@keyframes bounceAnimation {
+  0% {
+    transform: translateX(200px);
+  }
+  50% {
+    transform: translateX(
+      -30px
+    ); /* Adjust this value to control the bounce height */
+  }
+}
